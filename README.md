@@ -1,5 +1,5 @@
 # Image-Uploader
-A very basic application designe to upload images. A sort of a DIY attempt to understand web application development.
+A very basic application designe to upload images. A sort of a DIY attempt to begin understanding web application development.
 
 ## Getting Started
 
